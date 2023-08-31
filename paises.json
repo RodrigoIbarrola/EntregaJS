@@ -1,0 +1,87 @@
+[
+    {
+      "nombre": "Argentina",
+      "iva": 0.21
+    },
+    {
+      "nombre": "España",
+      "iva": 0.21
+    },
+    {
+      "nombre": "Estados Unidos",
+      "iva": 0
+    },
+    {
+      "nombre": "Brasil",
+      "iva": 0.12
+    },
+    {
+      "nombre": "México",
+      "iva": 0.16
+    },
+    {
+      "nombre": "Chile",
+      "iva": 0.19
+    },
+    {
+      "nombre": "Colombia",
+      "iva": 0.19
+    },
+    {
+      "nombre": "Perú",
+      "iva": 0.18
+    },
+    {
+      "nombre": "Venezuela",
+      "iva": 0.16
+    },
+    {
+      "nombre": "Uruguay",
+      "iva": 0.22
+    },
+    {
+      "nombre": "Ecuador",
+      "iva": 0.12
+    },
+    {
+      "nombre": "Paraguay",
+      "iva": 0.1
+    },
+    {
+      "nombre": "Bolivia",
+      "iva": 0.13
+    },
+    {
+      "nombre": "Costa Rica",
+      "iva": 0.13
+    },
+    {
+      "nombre": "Cuba",
+      "iva": 0
+    },
+    {
+      "nombre": "República Dominicana",
+      "iva": 0.18
+    },
+    {
+      "nombre": "Guatemala",
+      "iva": 0.12
+    },
+    {
+      "nombre": "Honduras",
+      "iva": 0.15
+    },
+    {
+      "nombre": "Nicaragua",
+      "iva": 0.15
+    },
+    {
+      "nombre": "Panamá",
+      "iva": 0.07
+    },
+    {
+      "nombre": "El Salvador",
+      "iva": 0.13
+    }
+  ]
+  

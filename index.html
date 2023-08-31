@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="Estilo.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+  
+
+<form id="CALCULADORA">
+    <h1>Calculadora de precio con IVA</h1><br>
+    <label for="PAIS">Selecione un pais</label>
+    <select id="PAIS"></select><br><br>
+
+    <label for = "IVA">Iva</label>    
+    <input type="number" id="IVA" readonly><br><br>
+
+    <label for="PRECIO">Ingrese el precio</label>
+    <input type="number" id="PRECIO"><br><br>
+
+    <button type="button" id="CALCULAR">Calcular</button>
+</form>
+
+
+
+
+<div id="RESULTADO" >
+ <p id="ELECCIONPAIS"></p>
+    <p id="IVARESULTADO"></p>
+    <p id="PRECIOFINAL"></p>
+    <p id ="MOSTRAR" type="button" ></p>
+
+</div>
+
+
+    <script src="./PRUEBA.js"></script>
+   
+</body>
+</html>
